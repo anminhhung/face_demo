@@ -1,0 +1,7 @@
+arguments: .\src\align_dataset_mtcnn.py .\dataset\raw\ .\dataset\processed\ --image_size 160 --margin 32
+--------------------
+tensorflow version: 1.15.5
+--------------------
+git hash: b''
+--------------------
+b''
